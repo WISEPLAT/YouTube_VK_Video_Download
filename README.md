@@ -1,7 +1,7 @@
 ### Python script for downloading videos from YouTube and VK (GUI) 
 #### Version: 1.5+ (current)
 
-![app screenshot](https://raw.githubusercontent.com/WISEPLAT/YouTube_VK_Video_Download/main/app_screen.jpg)
+![app screenshot](https://github.com/WISEPLAT/YouTube_VK_Video_Download/blob/master/app_screen.jpg?raw=true)
 
 
 ### UPD: April 2 2024 Version 1.5
@@ -33,7 +33,7 @@ or *youtube_vk_video_download_no_threads.py* - to download videos NOT in threads
 ![youtube downloads](https://raw.githubusercontent.com/WISEPLAT/YouTube_VK_Video_Download/main/youtube_downloads.jpg)
 
 > For VK, the links should look like: *https://vk.com/video-174522765_456239108* 
-![vk downloads](https://raw.githubusercontent.com/WISEPLAT/YouTube_VK_Video_Download/main/vk_downloads.jpg)
+![vk downloads](https://github.com/WISEPLAT/YouTube_VK_Video_Download/blob/master/vk_downloads.jpg?raw=true)
 
 
 ### Possible problems
