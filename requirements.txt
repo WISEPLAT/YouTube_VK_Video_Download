@@ -1,0 +1,6 @@
+yt_dlp
+tkinter
+requests
+webbrowser
+threading
+requests
