@@ -72,7 +72,7 @@ class App(ttk.Frame):
         webbrowser.open_new_tab('https://github.com/WISEPLAT/YouTube_VK_Video_Download')
 
     def donate(self):
-        webbrowser.open_new_tab('https://ko-fi.com/monseg')
+        return # webbrowser.open_new_tab('https://ko-fi.com/monseg')
 
     def checkUpdate(self, method='Button'):
         try:
